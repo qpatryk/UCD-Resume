@@ -183,7 +183,7 @@ footer{
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    bacground: #8f8f8f;
+    background: #8f8f8f;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -192,4 +192,8 @@ footer{
 
 .social-links li a i:hover {
     background: #e84610;
+}
+
+#footer-details {
+    padding: 20px;
 }
